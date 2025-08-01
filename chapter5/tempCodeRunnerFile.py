@@ -1,0 +1,2 @@
+
+lang=input("enter lang")
