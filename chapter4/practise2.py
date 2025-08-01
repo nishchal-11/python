@@ -1,0 +1,16 @@
+student=[]
+f1=int(input("enter studnet   mark"))
+student.append(f1)
+f2=int(input("enter studnet  marks"))
+student.append(f2)
+f3=int(input("enter studnet   marks"))
+student.append(f3)
+f4=int(input("enter  studnet marks"))
+student.append(f4)
+f5=int(input("enter  studnet  marks"))
+student.append(f5)
+f6=int(input("enter  studnet marks"))
+student.append(f6)
+
+student.sort()
+print(student)
